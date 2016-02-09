@@ -13,4 +13,7 @@ handlers:
   script: main.php
 - url: /fout
   script: foutmelding.php
+- url: /kerst
+  script: kerstboom.php
+  
   
